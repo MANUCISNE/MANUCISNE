@@ -36,8 +36,8 @@ object **Emanuela Cisne** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**Emanuela Cisne** github stats"/>
 </a>
 
-[website]: [https://codedev.ga/](https://www.projetosemanuela.com/)
-[twitter]: https://twitter.com/SEUTWITTER
+[website]: https://www.projetosemanuela.com/
+[twitter]: https://twitter.com/kickup
 [instagram]: https://www.instagram.com/emanuelacisne/
 [linkedin]: https://www.linkedin.com/in/ana-emanuela-cisne-de-lima-b00872b6/?locale=en_US
 <br>
@@ -46,6 +46,5 @@ object **Emanuela Cisne** {
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
