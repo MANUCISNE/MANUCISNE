@@ -9,10 +9,10 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 ```JavaScript
 object **Emanuela Cisne** {
  val name = "Ana Emanuela Cisne de Lima"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
+ val acknowledgements = "JavaScript, HTML, CSS, Git, GitHub"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("JavaScript", "Html", "CSS", "Git") 
+ val languages = listOf("JavaScript", "HTML", "CSS", "Git", "GitHub") 
 
 }
 ```
