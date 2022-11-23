@@ -37,7 +37,7 @@ object **Emanuela Cisne** {
 </a>
 
 [website]: https://www.projetosemanuela.com/
-[twitter]: https://twitter.com/kickup
+[twitter]: https://twitter.com/CisneEmanuela
 [instagram]: https://www.instagram.com/emanuelacisne/
 [linkedin]: https://www.linkedin.com/in/ana-emanuela-cisne-de-lima-b00872b6/?locale=en_US
 <br>
