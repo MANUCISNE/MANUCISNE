@@ -1,6 +1,16 @@
 ### Hi devs 👋
 
-Gosto de criar softwares e ajudar outras pessoas a fazer o mesmo.
+✌️ Yo! Nice to meet you, I'm Ana. 
+
+💘 I've been passionate about technology since I realized its priceless impact on all areas of modern society, and motivated by the acceleration of the digital transformation that the sad pandemic brought us, I started my studies in the programming area in 2021, because in it I saw the way I have always sought to contribute to the advancement of technology and, consequently, to add value to people's lives with my work. 
+
+🚀 As a Front-End developer, I always keep the end-user experience in mind, developing intuitive, responsive and preferably web applications that challenge me to think outside the box and look for innovative solutions. With an emphasis on Front-End technologies, I have knowledge in: Bootstrap, Javascript, HTML, CSS and Git/Github. 
+
+💻 Having less than 1 year of experience in the area of ​​Web development, Web3 and Blockchain. I have already developed several applications with such technologies, which can be seen on my Github.
+
+⚡ As a result of my studies in programming, I acquired skills such as: logical and creative thinking, critical analysis, abstraction and problem solving and agility in learning technologies.
+
+ ✉️ Finally, I consider myself a focused, responsible, assertive, dedicated and proactive person. I'm always open to new connections to share knowledge, so feel free to say hello!
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More About me
 
@@ -26,6 +36,8 @@ object **Emanuela Cisne** {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
+## **Languages in progress (learning):**  
+
 
 ## **GitHub Statistics**
 
@@ -43,7 +55,7 @@ object **Emanuela Cisne** {
 [linkedin]: https://www.linkedin.com/in/ana-emanuela-cisne-de-lima-b00872b6/?locale=en_US
 <br>
 
-#### Rede Sociais!
+#### Contact
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
