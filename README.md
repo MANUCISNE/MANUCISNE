@@ -4,7 +4,7 @@
 
 💘 I've been passionate about technology since I realized its priceless impact on all areas of modern society, and motivated by the acceleration of the digital transformation that the sad pandemic brought us, I started my studies in the programming area in 2021, because in it I saw the way I have always sought to contribute to the advancement of technology and, consequently, to add value to people's lives with my work. 
 
-🚀 As a Front-End developer, I always keep the end-user experience in mind, developing intuitive, responsive and preferably web applications that challenge me to think outside the box and look for innovative solutions. With an emphasis on Front-End technologies, I have knowledge in: Bootstrap, Javascript, HTML, CSS and Git/Github. 
+🚀 As a Front-End developer, I always keep the end-user experience in mind, developing intuitive, responsive and preferably web applications that challenge me to think outside the box and look for innovative solutions. With an emphasis on Front-End technologies, I have main knowledge in: Javascript, HTML, CSS and Git/Github. 
 
 💻 Having less than 1 year of experience in the area of ​​Web development, Web3 and Blockchain. I have already developed several applications with such technologies, which can be seen on my Github.
 
