@@ -6,7 +6,7 @@
 
 🚀 As a Front-End developer, I always keep the end-user experience in mind, developing intuitive, responsive and preferably web applications that challenge me to think outside the box and look for innovative solutions. With an emphasis on Front-End technologies, I have main knowledge in: Javascript, HTML, CSS and Git/Github. 
 
-💻 Having less than 1 year of experience in the area of ​​Web development, Web3 and Blockchain. I have already developed several applications with such technologies, which can be seen on my Github.
+💻 Having 1 year of experience in the area of ​​Web development, Web3 and Blockchain. I have already developed several applications with such technologies, which can be seen on my Github.
 
 ⚡ As a result of my studies in programming, I acquired skills such as: logical and creative thinking, critical analysis, abstraction and problem solving and agility in learning technologies.
 
