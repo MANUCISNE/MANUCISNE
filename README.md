@@ -6,7 +6,7 @@
 
 🚀 As a Front-End developer, I always keep the end-user experience in mind, developing intuitive, responsive and preferably web applications that challenge me to think outside the box and look for innovative solutions. With an emphasis on Front-End technologies, I have main knowledge in: Javascript, HTML, CSS and Git/Github. 
 
-💻 Having 1 year of experience in the area of ​​Web development, Web3 and Blockchain. I have already developed several applications with such technologies, which can be seen on my Github.
+💻 Having 1 year of experience in the area of ​​Web development, React, Typescript, Vite and Advanced CSS. I have already developed several applications with such technologies, which can be seen on my Github.
 
 ⚡ As a result of my studies in programming, I acquired skills such as: logical and creative thinking, critical analysis, abstraction and problem solving and agility in learning technologies.
 
@@ -19,10 +19,10 @@
 ```JavaScript
 object **Emanuela Cisne** {
  val name = "Ana Emanuela Cisne de Lima"
- val acknowledgements = "JavaScript, HTML, CSS, Git, GitHub"
+ val acknowledgements = "JavaScript, HTML, CSS, GitHub, React, Typescript"
  
  val primarySkillset = "Skills"
- val languages = listOf("JavaScript", "HTML", "CSS", "Git", "GitHub") 
+ val languages = listOf("JavaScript", "HTML", "CSS", "GitHub") 
 
 }
 ```
@@ -34,22 +34,18 @@ object **Emanuela Cisne** {
 <code><img height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"></code>
-<code><img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
 <code><img height="30" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+<code><img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"></code>
 
 ## **Languages in progress (learning):**  
 
 <code><img height="30" src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge"></code>
 <code><img height="30" src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge"></code>
 <code><img height="30" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
-<code><img height="30" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"></code>
 
 
 ## **GitHub Statistics**
