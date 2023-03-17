@@ -2,15 +2,14 @@
 
 ✌️ Yo! Nice to meet you, I'm Ana. 
 
-💘 I've been passionate about technology since I realized its priceless impact on all areas of modern society, and motivated by the acceleration of the digital transformation that the sad pandemic brought us, I started my studies in the programming area in 2021, because in it I saw the way I have always sought to contribute to the advancement of technology and, consequently, to add value to people's lives with my work. 
+💘 I've been passionate about technology since I realized its priceless impact on all areas of modern society, and motivated by the acceleration of the digital transformation and, consequently, to add value to people's lives with my work. 
 
-🚀 As a Front-End developer, I always keep the end-user experience in mind, developing intuitive, responsive and preferably web applications that challenge me to think outside the box and look for innovative solutions. With an emphasis on Front-End technologies, I have main knowledge in: Javascript, HTML, CSS and Git/Github. 
+🚀 Front-End developer - @DDsolutions Design & Desenvolvimento
 
-💻 Having 1 year of experience in the area of ​​Web development, React, Typescript, Vite and Advanced CSS. I have already developed several applications with such technologies, which can be seen on my Github.
+💻 ​​Web development, React, Typescript, Vite and Advanced CSS. I have already developed several applications with such technologies, which can be seen on my Github.
 
 ⚡ As a result of my studies in programming, I acquired skills such as: logical and creative thinking, critical analysis, abstraction and problem solving and agility in learning technologies.
 
- ✉️ Finally, I consider myself a focused, responsible, assertive, dedicated and proactive person. I'm always open to new connections to share knowledge, so feel free to say hello!
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More About me
 
