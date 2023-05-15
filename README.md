@@ -1,6 +1,6 @@
 ### Hi devs 👋
 
-✌️ Yo! Nice to meet you, I'm Ana. 
+✌️ Nice to meet you, I'm Ana. 
 
 💘 I've been passionate about technology since I realized its priceless impact on all areas of modern society, and motivated by the acceleration of the digital transformation and, consequently, to add value to people's lives with my work. 
 
