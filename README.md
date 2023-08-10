@@ -2,8 +2,7 @@
 
 As a Front-End developer, I always keep the end-user experience in mind, developing intuitive, responsive and preferably web applications that challenge me to think outside the box and look for innovative solutions. With an emphasis on Front-End technologies, I have knowledge in: Typescript, Javascript (React), HTML, CSS and Git/Github.
 
-Having a gerat experience in the area of ​​Web development, I have already developed several applications with such technologies, which can be seen both in the LinkedIn highlights section and on my Github, along with a little more about me:
- — https://github.com/MANUCISNE
+Having a gerat experience in the area of ​​Web development, I have already developed several applications with such technologies, which can be seen both in the LinkedIn highlights section - https://www.linkedin.com/in/ana-emanuela-cisne-de-lima-b00872b6/
 
 As a result of my studies in programming, I acquired skills such as: logical and creative thinking, critical analysis, abstraction and problem solving and agility in learning technologies.
 
