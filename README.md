@@ -1,14 +1,13 @@
-### Hi devs 👋
+### Hello!
 
-✌️ Nice to meet you, I'm Ana. 
+As a Front-End developer, I always keep the end-user experience in mind, developing intuitive, responsive and preferably web applications that challenge me to think outside the box and look for innovative solutions. With an emphasis on Front-End technologies, I have knowledge in: Typescript, Javascript (React), HTML, CSS and Git/Github.
 
-💘 I've been passionate about technology since I realized its priceless impact on all areas of modern society, and motivated by the acceleration of the digital transformation and, consequently, to add value to people's lives with my work. 
+Having a gerat experience in the area of ​​Web development, I have already developed several applications with such technologies, which can be seen both in the LinkedIn highlights section and on my Github, along with a little more about me:
+ — https://github.com/MANUCISNE
 
-🚀 Front-End developer - @DDsolutions Design & Desenvolvimento
+As a result of my studies in programming, I acquired skills such as: logical and creative thinking, critical analysis, abstraction and problem solving and agility in learning technologies.
 
-💻 ​​Web development, React, Typescript, Vite and Advanced CSS. I have already developed several applications with such technologies, which can be seen on my Github.
-
-⚡ As a result of my studies in programming, I acquired skills such as: logical and creative thinking, critical analysis, abstraction and problem solving and agility in learning technologies.
+Finally, I consider myself a focused, responsible, assertive, dedicated and proactive person. I'm always open to new connections to share knowledge.
 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More About me
