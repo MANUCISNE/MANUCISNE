@@ -1,75 +1,58 @@
-### Hello!
+# Ana Emanuela Cisne de Lima
 
-As a Front-End developer, I always keep the end-user experience in mind, developing intuitive, responsive and preferably web applications that challenge me to think outside the box and look for innovative solutions. With an emphasis on Web and Mobile Developer, with experience in React, Vue, Design Partners, Clean Architecture, Agile Methodologies, Git/GitHub.
+**PhD candidate in Biomedical Sciences** at IUCS-CESPU, Porto, Portugal — funded by an FCT doctoral fellowship (2025.01464.BD).
 
+I work on **malignant ascites and patient-derived organoids in high-grade serous ovarian carcinoma**, and I write my own analysis code. Ascites is present in over 90% of stage III–IV ovarian cancer patients and is routinely drained for symptom relief — then usually discarded. My thesis asks whether it is an active driver of platinum resistance rather than a passive complication of advanced disease.
 
-Having a gerat experience in the area of ​​Web development, I have already developed several applications with such technologies, which can be seen both in the LinkedIn highlights section - https://www.linkedin.com/in/ana-emanuela-cisne-de-lima-b00872b6/
+My background is unusual for a wet-lab scientist: I studied systems analysis and development and worked for a year as a front-end developer before moving into cancer research. In practice that means I build my own pipelines and tools instead of waiting for a collaborator.
 
-As a result of my studies in programming, I acquired skills such as: logical and creative thinking, critical analysis, abstraction and problem solving and agility in learning technologies.
+---
 
-Finally, I consider myself a focused, responsible, assertive, dedicated and proactive person. I'm always open to new connections to share knowledge.
+## Research
 
+**Project — ASCITESTEST:** exploring the multidimensional potential of ovarian cancer ascites for personalised testing.
+Supervisor: Prof. Sara Ricardo, PhD · Clinical collaboration with IPO Porto.
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More About me
+- Patient-derived organoids (PDOs) from ovarian cancer, established directly from ascites
+- *In vitro* models of acquired platinum resistance
+- Drug screening and viability assays
+- Histology, immunohistochemistry, tissue microarray construction
+- Organoid and clinical sample biobanking
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+**Selected publications**
 
-```JavaScript
-object **Emanuela Cisne** {
- val name = "Ana Emanuela Cisne de Lima"
- val acknowledgements = "JavaScript, HTML, CSS, GitHub, React, Typescript"
- 
- val primarySkillset = "Skills"
- val languages = listOf("JavaScript", "HTML", "CSS", "GitHub") 
+- de Lima AEC, Nunes M, Xavier CPR, Ricardo S. *Re-Thinking Pharmacokinetics in Ovarian Cancer: What Do Organoids Add?* **Int J Mol Sci** (2026). [10.3390/ijms27083423](https://doi.org/10.3390/ijms27083423)
+- Nunes MO, Almeida-Nunes DL, **de Lima AEC**, et al. *Tracking Chemotherapy Effects via ALDH1A1, SOX2, CD44v6 and P-gp Expression in Malignant Ascites from High-Grade Serous Carcinoma.* **Pathobiology** (2026). [10.1159/000551677](https://doi.org/10.1159/000551677)
 
-}
-```
+---
 
-## **Languages and Tools:**  
+## What is in this GitHub
 
-<code><img height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
-<code><img height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
-<code><img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"></code>
-<code><img height="30" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></code>
-<code><img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
+### Scientific computing
 
-## **Languages in progress (learning):**  
+| Repository | What it does |
+|---|---|
+| **ovarian-proteomics-pipeline** | End-to-end proteomics analysis in R. Takes DIA-NN (`report.tsv`) or MaxQuant (`proteinGroups.txt`) output through filtering, normalisation (`vsn`), imputation, differential expression (`limma`), and GO/Reactome enrichment (`clusterProfiler`, `org.Hs.eg.db`). Publication-ready figures: PCA, heatmaps, volcano plots. |
+| **Statlab---Science** | Web application for automated statistical analysis of spreadsheet data — suggests and runs the appropriate test, returns publication-style output. React front end with its own API. |
+| **calculadoraAnticorpos** / **HASV-calculator** | Small scientific calculators built for specific lab and occupational-exposure problems. |
 
-<code><img height="30" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white"></code>
+### Software development
 
+React, Next.js and TypeScript projects from my time as a front-end developer — full-stack applications, CRUD, API integration, data visualisation with Recharts and Leaflet.
 
+---
 
-## **GitHub Statistics**
+## Tools
 
-<a href="https://github.com/MANUCISNE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANUCISNE&theme=dracula&hide_langs_below=1" />
-</a>
+**Analysis** · R · Bioconductor (`limma`, `DEP`, `ComplexHeatmap`, `clusterProfiler`, `org.Hs.eg.db`) · tidyverse · Python
+**Domains** · proteomics (DIA-NN, MaxQuant) · single-cell RNA-seq · differential expression · pathway enrichment
+**Software** · TypeScript · JavaScript · React · Next.js · Git
+**Reproducibility** · RStudio Projects · version control · scripted analyses with fixed outputs
 
-<a href="https://github.com/MANUCISNE">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MANUCISNE&show_icons=true&theme=dracula&line_height=27" alt="**Emanuela Cisne** github stats"/>
-</a>
+---
 
-[twitter]: https://twitter.com/CisneEmanuela
-[instagram]: https://www.instagram.com/emanuelacisne/
-[linkedin]: https://www.linkedin.com/in/ana-emanuela-cisne-de-lima-b00872b6/?locale=en_US
-<br>
+## Elsewhere
 
-#### Contact
+[ORCID 0000-0002-0931-1978](https://orcid.org/0000-0002-0931-1978) · [Google Scholar](https://scholar.google.com/citations?user=GIHPbMcAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/ana-emanuela-cisne-de-lima-b00872b6/)
 
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+Open to collaborations on ovarian cancer models, ascites biology, and organoid drug screening.
