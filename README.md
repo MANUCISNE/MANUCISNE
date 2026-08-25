@@ -1,6 +1,6 @@
 # Ana Emanuela Cisne de Lima
 
-**PhD candidate in Biomedical Sciences** at IUCS-CESPU, Porto, Portugal — funded by an FCT doctoral fellowship (2025.01464.BD).
+**PhD candidate in Biomedical Sciences** at IUCS-CESPU, Porto, Portugal — funded by an FCT doctoral fellowship (2025.01464.BD) - https://doi.org/10.54499/2025.01464.BD.
 
 I work on **malignant ascites and patient-derived organoids in high-grade serous ovarian carcinoma**, and I write my own analysis code. Ascites is present in over 90% of stage III–IV ovarian cancer patients and is routinely drained for symptom relief — then usually discarded. My thesis asks whether it is an active driver of platinum resistance rather than a passive complication of advanced disease.
 
